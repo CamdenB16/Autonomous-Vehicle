@@ -49,4 +49,4 @@ Once you're done making changes, you can run "git push" to push any saved local 
 download your changes to their machine to work on them locally.
 
 ## That's it
-If you have any other questions, just message me on discord. -Conner#
+If you have any other questions, feel free to reach out to me.
